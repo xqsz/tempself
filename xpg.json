@@ -1,4 +1,8 @@
 {
+  "spider":"http://194.147.100.173/box/20250824.jar;md5;1099f9cedab19f487ac8fc283d9ca447",
+
+  "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+  
   "sites":[
     {
       "key": "豆瓣jar",
@@ -567,11 +571,7 @@
         "quickSearch":0}
   ],
 
-  "spider":"http://194.147.100.173/box/20250824.jar;md5;1099f9cedab19f487ac8fc283d9ca447",
-
-  "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-
-  "lives": [
+"lives": [
     {
         "name": "海外专线（内地禁用",
         "type": 0,
